@@ -1,6 +1,5 @@
 require 'rubygems'
 require 'spec'
-#require 'source/universe'
 
 class Cell
   def initialize(alive)
