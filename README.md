@@ -8,3 +8,5 @@ This is a simple pass at the ever-popular Game of Life.
 We used iChat so that both of us could drive. We were both on good pipes (20MB/s).
 
 Always frustrating that the damn timer goes off too fast!
+
+JB captured it on [video](http://vimeo.com/20421518)
